@@ -1,0 +1,52 @@
+#div{
+	border-style: solid;
+	border-color: black;
+	margin: 15%;
+	padding: 12px;
+}
+#product{
+	font-family: 'Gruppo', sans-serif;
+	font-size: 14pt;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#price{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-family: 'Gruppo', sans-serif;
+	font-size: 100pt;
+	text-align: center;
+}
+body{
+	background-color: Red;
+}
+img{
+	height: 50%;
+	width: 50%;
+	margin-left: 200px;
+	margin-right: 100px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+h4{
+	font-family: 'Gruppo', sans-serif;
+	font-size: 55pt;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+button{
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+    display: inline-block;
+    padding: 12px;
+    color: black;
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 19px;
+}
